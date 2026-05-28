@@ -1,4 +1,4 @@
-﻿
+﻿//Designed chatbot GUI interface with chat area and input controls
     namespace ChatbotAI2
     {
         partial class MainForm
