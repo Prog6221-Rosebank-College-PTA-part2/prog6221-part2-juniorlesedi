@@ -1,4 +1,5 @@
-﻿namespace ChatbotAI2
+//Created the sentimentAnalyzer which can sense the mood of the user by words
+namespace ChatbotAI2
 {
     public class SentimentAnalyzer
     {
