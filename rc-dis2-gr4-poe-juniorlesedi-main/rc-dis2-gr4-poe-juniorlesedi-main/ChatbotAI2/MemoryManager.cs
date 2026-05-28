@@ -1,4 +1,5 @@
-﻿namespace ChatbotAI2
+//Implemented chatbot memory and personalised responses
+namespace ChatbotAI2
 {
     public class MemoryManager
     {
