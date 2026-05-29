@@ -1,22 +1,18 @@
-﻿using System.Media;
-
+﻿using System.Speech.Synthesis;
 namespace ChatbotAI2
 {
-    public class VoicePlayer
+    public static class VoicePlayer
     {
+        private static SpeechSynthesizer voice = new SpeechSynthesizer();
+
         public static void PlayGreeting()
         {
-            try
-            {
-                SoundPlayer player = new SoundPlayer("greeting.wav");
-                player.Play();
-            }
-            catch
-            {
+            voice.SpeakAsync("Welcome to the Cybersecurity Awareness Bot");
+        }
 
-            }
+        public static void Speak(string text)
+        {
+            voice.SpeakAsync(text);
         }
     }
 }
-
-
