@@ -1,0 +1,20 @@
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\bin\Debug\ChatbotAI2.exe.config
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\bin\Debug\ChatbotAI2.exe
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\bin\Debug\ChatbotAI2.pdb
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\obj\Debug\ChatbotAI2.csproj.AssemblyReference.cache
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\obj\Debug\ChatbotAI2.csproj.CoreCompileInputs.cache
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\obj\Debug\ChatbotAI2.exe
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\obj\Debug\ChatbotAI2.pdb
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\obj\Debug\ChatbotAI2.exe.config
+C:\Users\BIG SCAR\source\repos\ChatbotAI2\ChatbotAI2\bin\Debug\greeting.wav
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\bin\Debug\greeting.wav
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\bin\Debug\ChatbotAI2.exe.config
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\bin\Debug\ChatbotAI2.exe
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\bin\Debug\ChatbotAI2.pdb
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.csproj.AssemblyReference.cache
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.MainForm.resources
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.csproj.GenerateResource.cache
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.exe
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.pdb
+C:\Users\junio\OneDrive\Documents\rc-dis2-gr4-poe-juniorlesedi-main\rc-dis2-gr4-poe-juniorlesedi-main\ChatbotAI2\obj\Debug\ChatbotAI2.Properties.Resources.resources
