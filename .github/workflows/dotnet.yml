@@ -21,7 +21,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore rc-dis2-gr4-poe-juniorlesedi-main/rc-dis2-gr4-poe-juniorlesedi-main/ChatbotAI2/Program.cs- p:EnableWindowsTargeting=true
+      run: dotnet restore rc-dis2-gr4-poe-juniorlesedi-main/rc-dis2-gr4-poe-juniorlesedi-main/ChatbotAI2/Program.cs -p:EnableWindowsTargeting=true
     - name: Build
       run: dotnet build --no-restore rc-dis2-gr4-poe-juniorlesedi-main/rc-dis2-gr4-poe-juniorlesedi-main/ChatbotAI2/Program.cs -p:EnableWindowsTargeting=true
     
